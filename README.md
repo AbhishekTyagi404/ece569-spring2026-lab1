@@ -5,4 +5,4 @@ This repository contains code for Lab 1 of ECE 569 (ROS2 publisher/subscriber de
 Contents:
 - `mypubsub/` — Custom Python ROS2 publisher & subscriber
 - Launch file and build setup
-- Screenshots folder (to be added)
+- Screenshots
