@@ -1,4 +1,4 @@
-# ECE569 Spring 2026 — Lab 1
+# ECE569 Spring 2026 - Lab 1
 
 Name: Abhishek Tyagi  
 Email: tyagi55@purdue.edu
